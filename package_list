@@ -1,0 +1,21 @@
+# from https://github.com/ptitSeb/box64/blob/main/docs/X64WINE.md
+
+PACKAGES_32="libasound2 libc6 libglib2.0-0 libgphoto2-6 libgphoto2-port12 
+libgstreamer-plugins-base1.0-0 libgstreamer1.0-0 libldap-2.5-0 libopenal1 libpcap0.8 
+libpulse0 libsane1 libudev1 libusb-1.0-0 libvkd3d1 libx11-6 libxext6 
+libasound2-plugins ocl-icd-libopencl1 libncurses6 libncurses5 libcups2 
+libdbus-1-3 libfontconfig1 libfreetype6 libglu1-mesa libglu1 libgnutls30 
+libgssapi-krb5-2 libkrb5-3 libodbc1 libosmesa6 libsdl2-2.0-0 libv4l-0 
+libxcomposite1 libxcursor1 libxfixes3 libxi6 libxinerama1 libxrandr2 
+libxrender1 libxxf86vm1 libc6 libstb0
+mesa-vulkan-drivers libgl1-mesa-dri libglx-mesa0 libegl-mesa0"
+
+PACKAGES="libasound2 libc6 libglib2.0-0 libgphoto2-6 libgphoto2-port12 
+libgstreamer-plugins-base1.0-0 libgstreamer1.0-0 libldap-2.5-0 libopenal1 libpcap0.8 
+libpulse0 libsane1 libudev1 libunwind8 libusb-1.0-0 libvkd3d1 libx11-6 libxext6 
+ocl-icd-libopencl1 libasound2-plugins libncurses6 libncurses5 libcups2 
+libdbus-1-3 libfontconfig1 libfreetype6 libglu1-mesa libgnutls30 
+libgssapi-krb5-2 libjpeg62-turbo libkrb5-3 libodbc1 libosmesa6 libsdl2-2.0-0 libv4l-0 
+libxcomposite1 libxcursor1 libxfixes3 libxi6 libxinerama1 libxrandr2 
+libxrender1 libxxf86vm1 libc6 libcap2-bin libstb0
+mesa-vulkan-drivers libgl1-mesa-dri libglx-mesa0 libegl-mesa0"
